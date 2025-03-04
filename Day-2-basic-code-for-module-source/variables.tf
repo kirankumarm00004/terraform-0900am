@@ -13,6 +13,6 @@ variable "type" {
 
 variable "key" {
     type = string
-    default = "pk"
+    default = "kkk"
   
 }
